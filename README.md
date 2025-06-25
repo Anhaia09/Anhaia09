@@ -26,7 +26,7 @@
 <br>
 
 - 💻 Desenvolvedora Front-End com foco em interfaces modernas, responsivas e acessíveis  
-- 🌱 Atualmente estudando **React Native** e aprofundando meus conhecimentos em **Next.js**
+- 🌱 Atualmente estudando **React Native**, **TypeScript** e aprofundando meus conhecimentos em **Next.js**
 - 🎯 Praticando boas práticas, componentização e performance
 - 💡 Curiosa por UX/UI, design systems e animações com CSS/JS
 - 💬 Sempre aberta para trocar ideias e aprender com a comunidade
